@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Bomb Defuse</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+		<h1>Defuse the bomb!</h1>
+		<h2 id='time_left'>00:60</h2>
+		<div class='win_buttons'>
+			<div id='one' class='item'>0</div>
+			<div id='two'class='item'>0</div>
+			<div id='three'class='item'>0</div>
+			<div id='four'class='item'>0</div>
+		</div>
+		<br>
+		<br>
+		<br>
+		<div class='select'>
+			<div class='row'>
+				<button class='number' onclick='number("1")'>1</button>
+				<button class='number' onclick='number("2")'>2</button>
+				<button class='number' onclick='number("3")'>3</button>
+			</div>
+			<div class='row'>
+				<button class='number' onclick='number("4")'>4</button>
+				<button class='number' onclick='number("5")'>5</button>
+				<button class='number' onclick='number("6")'>6</button>
+			</div>
+			<div class='row'>
+				<button class='number' onclick='number("7")'>7</button>
+				<button class='number' onclick='number("8")'>8</button>
+				<button class='number' onclick='number("9")'>9</button>
+			</div>
+			<div class='row'>
+				<button class='number' onclick='number("0")'>0</button>
+			</div>
+		</div>
+		<div class='popup' id='win'>
+			<div class='popup_content'>
+				<h1>You defused the bomb!</h1>
+				<p id='seconds_to_spare'>You had 0 seconds to spare</p>
+			</div>
+		</div>
+		<div class='popup2' id='lose'>
+			<div class='popup_content2'>
+				<h1>Kaboom!!</h1>
+				<p>You dead...</p>
+			</div>
+		</div>
+    <script src="script.js"></script>
+  </body>
+</html>

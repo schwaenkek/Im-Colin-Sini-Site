@@ -1,0 +1,601 @@
+# Copyright (C) 2021 Patchstack
+# This file is distributed under the EULA.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patchstack 2.0.20\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/webarx\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-18T12:11:11+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: webarx\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Patchstack"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://patchstack.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "A powerful WordPress security plugin."
+msgstr ""
+
+#: includes/activation.php:111
+msgid "Patchstack is missing requirements and has been <a href=\"%s\">deactivated</a>. Please make sure all requirements are available."
+msgstr ""
+
+#: includes/admin/menu.php:50
+#: includes/admin/menu.php:130
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/menu.php:116
+msgid "Sorry, there was a problem processing your request."
+msgstr ""
+
+#: includes/admin/options.php:147
+msgid "Security Configurations"
+msgstr ""
+
+#: includes/admin/options.php:148
+msgid "<hr style=\"height:1px;border:none;background-color: rgba(170, 189, 215, 0.1);\"><br> reCAPTCHA<br><span style=\"font-size: 13px; color: #d0d0d0;\">It should be noted that the reCAPTCHA feature only applies to WordPress its core features at this time. Not custom forms or of third party plugins.</span>"
+msgstr ""
+
+#: includes/admin/options.php:149
+msgid "Firewall settings"
+msgstr ""
+
+#: includes/admin/options.php:151
+msgid ".htaccess Features"
+msgstr ""
+
+#: includes/admin/options.php:153
+msgid "Country Blocking"
+msgstr ""
+
+#: includes/admin/options.php:154
+msgid "IP Whitelist &amp; Blacklist"
+msgstr ""
+
+#: includes/admin/options.php:155
+msgid "Cookie Notice Settings"
+msgstr ""
+
+#: includes/admin/options.php:156
+#: includes/views/pages/settings.php:80
+msgid "Login Protection"
+msgstr ""
+
+#: includes/admin/options.php:157
+msgid "<hr style=\"height:1px;border:none;background-color: rgba(170, 189, 215, 0.1);\"><br> Two Factor Authentication"
+msgstr ""
+
+#: includes/admin/options.php:158
+msgid "<hr style=\"height:1px;border:none;background-color: rgba(170, 189, 215, 0.1);\"><br> Currently Blocked IP Addresses"
+msgstr ""
+
+#: includes/admin/options.php:159
+msgid "<hr style=\"height:1px;border:none;background-color: rgba(170, 189, 215, 0.1);\"><br> Whitelisted IP Addresses"
+msgstr ""
+
+#: includes/admin/options.php:162
+msgid "Display Dashboard Widget"
+msgstr ""
+
+#: includes/admin/options.php:164
+msgid "Disable plugin/theme edit"
+msgstr ""
+
+#: includes/admin/options.php:165
+msgid "Remove readme.html"
+msgstr ""
+
+#: includes/admin/options.php:166
+msgid "Auto Update Software"
+msgstr ""
+
+#: includes/admin/options.php:168
+msgid "Stop WPScan"
+msgstr ""
+
+#: includes/admin/options.php:169
+msgid "Disable user enumeration"
+msgstr ""
+
+#: includes/admin/options.php:170
+msgid "Hide WordPress version"
+msgstr ""
+
+#: includes/admin/options.php:171
+msgid "Enable activity log"
+msgstr ""
+
+#: includes/admin/options.php:172
+msgid "Log failed logins"
+msgstr ""
+
+#: includes/admin/options.php:173
+msgid "Block Application Passwords"
+msgstr ""
+
+#: includes/admin/options.php:174
+msgid "Restrict XML-RPC Access"
+msgstr ""
+
+#: includes/admin/options.php:175
+msgid "Restrict WP REST API Access"
+msgstr ""
+
+#: includes/admin/options.php:176
+msgid "Registration Email Blacklist"
+msgstr ""
+
+#: includes/admin/options.php:179
+msgid "Post comments form"
+msgstr ""
+
+#: includes/admin/options.php:180
+msgid "Login form"
+msgstr ""
+
+#: includes/admin/options.php:181
+msgid "Registration form"
+msgstr ""
+
+#: includes/admin/options.php:182
+msgid "Password reset form"
+msgstr ""
+
+#: includes/admin/options.php:184
+msgid "Site Key "
+msgstr ""
+
+#: includes/admin/options.php:185
+#: includes/views/2fa-profile-configuration.php:20
+#: includes/views/2fa-profile-configuration.php:23
+msgid "Secret Key"
+msgstr ""
+
+#: includes/admin/options.php:188
+msgid "Enable firewall"
+msgstr ""
+
+#: includes/admin/options.php:189
+msgid "Firewall user role whitelist"
+msgstr ""
+
+#: includes/admin/options.php:190
+msgid "Country Blocking Enabled"
+msgstr ""
+
+#: includes/admin/options.php:191
+msgid "Inversed Check"
+msgstr ""
+
+#: includes/admin/options.php:192
+msgid "Countries To Block"
+msgstr ""
+
+#: includes/admin/options.php:194
+msgid "IP Address Header Override"
+msgstr ""
+
+#: includes/admin/options.php:195
+msgid "Disable .htaccess features"
+msgstr ""
+
+#: includes/admin/options.php:196
+msgid "Add security headers"
+msgstr ""
+
+#: includes/admin/options.php:197
+msgid "Prevent default wordpress file access"
+msgstr ""
+
+#: includes/admin/options.php:198
+msgid "Block access to debug.log file"
+msgstr ""
+
+#: includes/admin/options.php:199
+msgid "Disable index views"
+msgstr ""
+
+#: includes/admin/options.php:200
+msgid "Forbid proxy comment posting"
+msgstr ""
+
+#: includes/admin/options.php:201
+msgid "Prevent image hotlinking"
+msgstr ""
+
+#: includes/admin/options.php:202
+msgid "Add custom .htaccess rules here"
+msgstr ""
+
+#: includes/admin/options.php:203
+msgid "Custom .htaccess rules location"
+msgstr ""
+
+#: includes/admin/options.php:205
+msgid "Block IP List"
+msgstr ""
+
+#: includes/admin/options.php:206
+#: includes/admin/options.php:217
+msgid "Whitelist"
+msgstr ""
+
+#: includes/admin/options.php:210
+msgid "Move and rename login page"
+msgstr ""
+
+#: includes/admin/options.php:213
+msgid "Automatic brute-force IP ban"
+msgstr ""
+
+#: includes/admin/options.php:214
+msgid "Logon hours"
+msgstr ""
+
+#: includes/admin/options.php:215
+msgid "Two Factor Authentication"
+msgstr ""
+
+#: includes/admin/options.php:216
+msgid "Blocked"
+msgstr ""
+
+#: includes/admin/options.php:263
+msgid "Select what needs to be automatically updated each time WordPress looks for updates in the background.<br>Keep in mind that if a plugin update contains a bug or a fatal error, it could break your site."
+msgstr ""
+
+#: includes/admin/options.php:269
+msgid "If enabled and valid countries are specified to be blocked, will block these countries."
+msgstr ""
+
+#: includes/admin/options.php:276
+msgid "If enabled, instead of checking if the country of the visitor is in the list, check if it is not in the list instead."
+msgstr ""
+
+#: includes/admin/options.php:284
+msgid "Specify which countries should be blocked.<br>Note that this will also block any type of (legitimate) bot traffic coming from this country. IP to country resolution might also not be 100% accurate."
+msgstr ""
+
+#: includes/admin/options.php:309
+msgid "Display the Patchstack widget on the dashboard of the admin environment."
+msgstr ""
+
+#: includes/admin/options.php:316
+msgid "Restrict access to xmlrpc.php by only allowing authenticated users to access it."
+msgstr ""
+
+#: includes/admin/options.php:323
+msgid "Disables the application passwords feature introduced in WordPress 5.6."
+msgstr ""
+
+#: includes/admin/options.php:330
+msgid "Restrict access to the WP Rest API by only allowing authenticated users to access it."
+msgstr ""
+
+#: includes/admin/options.php:336
+msgid "<br><br>Enter patterns here, seperated by commas, which email addresses we should block upon registration.<br>For example if you enter @badsite.com it will block all email addresses that contain @badsite.com."
+msgstr ""
+
+#: includes/admin/options.php:343
+msgid "If enabled, every user action will be recorded and put to activity logs"
+msgstr ""
+
+#: includes/admin/options.php:350
+msgid "If this is checked along with the activity logs, we will also log failed login attempts."
+msgstr ""
+
+#: includes/admin/options.php:357
+msgid "Check this if you want to enable reCAPTCHA on post comments."
+msgstr ""
+
+#: includes/admin/options.php:364
+msgid "Check this if you want to display \"Powered by Patchstack\""
+msgstr ""
+
+#: includes/admin/options.php:371
+msgid "Check this if you want to enable cookie notice message."
+msgstr ""
+
+#: includes/admin/options.php:400
+msgid "Check this if you want to enable policy link."
+msgstr ""
+
+#: includes/admin/options.php:435
+msgid "Move login page to hide it from hackers and seekers."
+msgstr ""
+
+#: includes/admin/options.php:436
+msgid "Hide wp-login and wp-admin page from attackers."
+msgstr ""
+
+#: includes/admin/options.php:448
+msgid "Patchstack custom login page could not be activated due to your environment setup, it may be conflict with other plugin or specific .htaccess rules."
+msgstr ""
+
+#: includes/admin/options.php:457
+msgid "Disable direct editing of themes or plugins code from Wordpress admin view."
+msgstr ""
+
+#: includes/admin/options.php:463
+msgid "Add security headers to the response by your webserver."
+msgstr ""
+
+#: includes/admin/options.php:470
+msgid "This will attempt to stop basic WPScan scans."
+msgstr ""
+
+#: includes/admin/options.php:476
+msgid "Disable user enumeration to block hackers from getting your usernames."
+msgstr ""
+
+#: includes/admin/options.php:482
+msgid "Move wp-content folder into facebook.com folder and link to it in wp-config.php. saving settings after ticking this will take more time than usual. Just let it reload the page on its own and be patient."
+msgstr ""
+
+#: includes/admin/options.php:483
+msgid "If this setting brakes your website then go to your server files through FTP, rename facebook.com folder to wp-content and erase Patchstack section from the top of wp-config.php file."
+msgstr ""
+
+#: includes/admin/options.php:489
+msgid "Removes the WordPress version in the <meta> tag in the HTML output."
+msgstr ""
+
+#: includes/admin/options.php:495
+msgid "Removes the readme.html file from the WordPress root folder."
+msgstr ""
+
+#: includes/admin/options.php:502
+msgid "Prevent access to such files as license.txt, readme.html and wp-config-sample.php"
+msgstr ""
+
+#: includes/admin/options.php:508
+msgid "Check this if you want to turn on the advanced firewall protection on your site."
+msgstr ""
+
+#: includes/admin/options.php:528
+msgid "Against which user roles should the firewall not run against?<br>The firewall will always run against guests.<br>"
+msgstr ""
+
+#: includes/admin/options.php:533
+msgid "Check this if you want to block known malicious connections."
+msgstr ""
+
+#: includes/admin/options.php:539
+msgid "If you would like to override the IP address header that we use to grab the IP address of the visitor, enter the value here. This must be a valid value in the $_SERVER array, for example HTTP_X_FORWARDED_FOR. If the $_SERVER value you enter does not exist, it will fallback to the Patchstack IP grab function so ask your hosting company if you are unsure. Leave this empty to use the Patchstack IP address grabbing function."
+msgstr ""
+
+#: includes/admin/options.php:545
+msgid "Check this if you want to stop us from writing to your .htaccess file. Note that the current changes to the .htaccess file will remain."
+msgstr ""
+
+#: includes/admin/options.php:551
+msgid "Check this if you want to block access to the debug.log file that WordPress creates when debug logging is enabled."
+msgstr ""
+
+#: includes/admin/options.php:557
+msgid "Check this if you want to disable directory and file listing."
+msgstr ""
+
+#: includes/admin/options.php:563
+msgid "Check this if you want to forbid proxy comment posting."
+msgstr ""
+
+#: includes/admin/options.php:569
+msgid "Check this if you want to automatically ban IP addresses that fail to login multiple times in a short span of time."
+msgstr ""
+
+#: includes/admin/options.php:577
+msgid "Check this if you want to enforce specific logon hours."
+msgstr ""
+
+#: includes/admin/options.php:585
+msgid "Check this if you want to make it possible for users to enable two factor authentication (2FA) on their account."
+msgstr ""
+
+#: includes/admin/options.php:610
+msgid "These are the IP addresses that are currently blocked because of too many failed login attempts.<br>These are not the IP addresses banned by the firewall itself.<br><br>"
+msgstr ""
+
+#: includes/admin/options.php:627
+msgid "Check this if you want to prevent hotlinking to images on your site."
+msgstr ""
+
+#: includes/admin/options.php:633
+msgid "Add custom .htaccess rules here if you know what you are doing, otherwise you may break your site. So be careful."
+msgstr ""
+
+#: includes/admin/options.php:660
+msgid "Check this if you want to enable reCAPTCHA on user login."
+msgstr ""
+
+#: includes/admin/options.php:666
+msgid "Check this if you want to enable reCAPTCHA on registration."
+msgstr ""
+
+#: includes/admin/options.php:672
+msgid "Check this if you want to enable reCAPTCHA on password reset."
+msgstr ""
+
+#: includes/admin/options.php:709
+msgid "<br><br>Enter the reCAPTCHA site key here.<br>Click <a href=\"https://support.patchstack.com/technical-support-and-troubleshooting/plugin/how-to-get-the-site-and-secret-key-for-the-recaptcha-feature\" target=\"_blank\">here</a> for a guide on how to get the site / secret key."
+msgstr ""
+
+#: includes/admin/options.php:716
+msgid "<br><br>Enter the reCAPTCHA secret key here.<br>Click <a href=\"https://support.patchstack.com/technical-support-and-troubleshooting/plugin/how-to-get-the-site-and-secret-key-for-the-recaptcha-feature\" target=\"_blank\">here</a> for a guide on how to get the site / secret key."
+msgstr ""
+
+#: includes/admin/options.php:734
+msgid "<p>Each rule must be on a new line.<br><br><strong>The following keywords are accepted</strong><br>IP:IPADDRESS<br>PAYLOAD:someval<br>URL:/someurl<br><br><strong>Definitions</strong><br>IP = firewall will not run against the IP<br>PAYLOAD = if the entire payload contains the keyword, the firewall will not proceed<br>URL = if the URL contains given URL, firewall will not proceed<br><br><strong>Example</strong><br>IP:192.168.1.1<br>PAYLOAD:contact_form<br>URL:water<br>URL:/some-form<br><br>In this scenario, the firewall will not run if the IP address is 192.168.1.1 or if the payload contains contact_form or if the URL contains water or if the URL contains /some-form.</p>"
+msgstr ""
+
+#: includes/api.php:91
+msgid "API Keys Missing! Unable to obtain a token."
+msgstr ""
+
+#: includes/api.php:114
+#: includes/api.php:145
+msgid "Unexpected Error! Unable to obtain a token. "
+msgstr ""
+
+#: includes/events/posts.php:34
+msgid "(no title)"
+msgstr ""
+
+#: includes/hardening.php:377
+#: includes/hardening.php:397
+msgid "An invalid email address has been supplied."
+msgstr ""
+
+#: includes/hide-login.php:76
+msgid "New Login URL"
+msgstr ""
+
+#: includes/hide-login.php:285
+msgid "Patchstack: Please upgrade to the latest version of WordPress to activate"
+msgstr ""
+
+#: includes/login.php:83
+msgid "Please enter the 2FA authentication code that is generated on your device."
+msgstr ""
+
+#: includes/login.php:89
+msgid "The 2FA authentication code you entered is invalid."
+msgstr ""
+
+#: includes/login.php:226
+msgid "Access to the login page has been restricted due to set logon hours."
+msgstr ""
+
+#: includes/login.php:226
+msgid "Login Disallowed"
+msgstr ""
+
+#: includes/login.php:286
+msgid "You have entered an incorrect reCAPTCHA value."
+msgstr ""
+
+#: includes/login.php:319
+msgid "You have entered an incorrect reCAPTCHA value. Refresh this page and try again."
+msgstr ""
+
+#: includes/views/2fa-login-form.php:8
+msgid "2FA Code"
+msgstr ""
+
+#: includes/views/2fa-login-form.php:9
+msgid "leave empty if no 2FA setup"
+msgstr ""
+
+#: includes/views/2fa-profile-configuration.php:7
+msgid "Two Factor Authentication Configuration"
+msgstr ""
+
+#: includes/views/2fa-profile-configuration.php:11
+#: includes/views/2fa-profile-configuration.php:14
+msgid "Enable 2FA"
+msgstr ""
+
+#: includes/views/2fa-profile-configuration.php:15
+msgid "Enable 2FA on your account."
+msgstr ""
+
+#: includes/views/2fa-profile-configuration.php:29
+#: includes/views/2fa-profile-configuration.php:32
+msgid "QR Code Image"
+msgstr ""
+
+#: includes/views/2fa-profile-configuration.php:34
+msgid "Scan this image with your 2FA app."
+msgstr ""
+
+#: includes/views/pages/cookie-notice.php:14
+#: includes/views/pages/firewall.php:14
+#: includes/views/pages/hardening.php:14
+#: includes/views/pages/login.php:14
+msgid "Save settings"
+msgstr ""
+
+#: includes/views/pages/license.php:14
+msgid "License Information"
+msgstr ""
+
+#: includes/views/pages/license.php:18
+msgid "License Key"
+msgstr ""
+
+#: includes/views/pages/license.php:27
+msgid "API Client ID"
+msgstr ""
+
+#: includes/views/pages/license.php:31
+msgid "API Client Secret Key"
+msgstr ""
+
+#: includes/views/pages/license.php:43
+msgid "Re-Activate"
+msgstr ""
+
+#: includes/views/pages/license.php:44
+msgid "Test API"
+msgstr ""
+
+#: includes/views/pages/logs.php:16
+msgid "Firewall Log"
+msgstr ""
+
+#: includes/views/pages/logs.php:17
+msgid "Activity Log"
+msgstr ""
+
+#: includes/views/pages/settings.php:43
+msgid "The Patchstack plugin has been turned on!<br>If you want to activate the Patchstack plugin on more sites on this multisite/network environment, please check them below and click on the activate button."
+msgstr ""
+
+#: includes/views/pages/settings.php:45
+msgid "The Patchstack plugin has been turned on!<br>If the status of your license below is activated, please allow 5 to 15 minutes for data to appear on the Patchstack portal."
+msgstr ""
+
+#: includes/views/pages/settings.php:59
+msgid "Note that because this is a multisite/network environment, this settings page will define all default settings of all sites.<br>If you would like to change the settings of a specific site, visit the administration panel of the site in question. Click <a href=\""
+msgstr ""
+
+#: includes/views/pages/settings.php:61
+msgid "Note that because this is a multisite/network environment, certain settings can only be managed by the super administrator of the WordPress network."
+msgstr ""
+
+#: includes/views/pages/settings.php:70
+msgid "Hardening"
+msgstr ""
+
+#: includes/views/pages/settings.php:75
+msgid "Firewall"
+msgstr ""
+
+#: includes/views/pages/settings.php:85
+msgid "Cookie Notice"
+msgstr ""
+
+#: includes/views/pages/settings.php:91
+msgid "Logs"
+msgstr ""
+
+#: includes/views/pages/settings.php:98
+msgid "License"
+msgstr ""
+
+#: includes/widget.php:52
+msgid "You have not entered your license."
+msgstr ""

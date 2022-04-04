@@ -1,0 +1,161 @@
+/* Reset-CSS */
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration:none;
+}
+
+
+body {
+    background-color: darkblue;
+
+}
+
+#main {
+    background-color: yellow;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: red;
+    height: 140px;
+}
+
+nav {
+    background-color: aquamarine;
+    height:1000px;
+    float:left;
+    width:25%;
+}
+
+#content {
+    background-color: green;
+    height: 1000px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    clear:both;
+}
+
+
+
+/******************
+*
+* Navigation
+*
+********************/
+
+nav ul{
+    list-style:none;
+}
+nav ul li{
+    background-color:chocolate;
+    margin-top:10px;
+}
+nav ul li a{
+    background-color:ghostwhite;
+    /*display:block;*/
+    padding:10px;
+}
+
+nav a:hover{
+    background-color:lawngreen;
+    font-family:Algerian;
+    font-size:50px;
+    margin:20px;
+}
+
+
+
+
+
+/************
+* Animationen
+*************/
+
+.blink {
+    font-size: 50px;
+    animation: blinkingText 10s infinite;
+}
+
+@keyframes blinkingText {
+    0% {
+        color: crimson;
+    }
+
+    23% {
+        color: green;
+    }
+
+    51% {
+        color: yellow;
+    }
+
+    68% {
+        color: violet;
+    }
+
+    83% {
+        color: blue;
+    }
+
+    100% {
+        color: crimson;
+    }
+}
+
+.blink_two {
+    font-size: 30px;
+    animation: blinkingText 10s infinite;
+}
+
+.textwelle{
+    animation: textwelle 2s infinite;
+}
+
+.aids{
+    animation: textwelle 2s infinite, blinkingText 2s infinite;
+}
+
+.aids_extreme {
+    animation: textwelle_extreme 2s infinite, blinkingText 2s infinite;
+}
+
+@keyframes textwelle{
+    0% {
+        font-size: 0px;
+        opacity: 0;
+    }
+    90% {
+        font-size: 220%;
+        opacity: 1;
+    }
+    100% {
+        font-size: 200%;
+        opacity: 1;
+    }
+}
+
+@keyframes textwelle_extreme {
+    0% {
+        font-size: 300%;
+        opacity: 1;
+    }
+
+    40% {
+        font-size: 420%;
+        opacity: 1;
+    }
+
+    70% {
+        font-size: 400%;
+        opacity: 1;
+    }
+    100%{
+        font-size: 300%;
+        opacity: 1;
+    }
+}

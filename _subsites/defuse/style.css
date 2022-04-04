@@ -1,0 +1,89 @@
+body {
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-family: trebuchet MS;
+}
+.item {
+	background-color: rgb(48, 48, 48);
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 3px 2px;
+	border-radius: 10%;
+	vertical-align: middle;
+	border: 1px solid white;
+	font-family: monospace;
+	font-size: 50px;
+	color: white;
+}
+.item:hover {
+	width: 105px;
+	height: 105px;
+}
+.number {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	border: 4px solid grey;
+	background-color: black;
+	color: white;
+	font-size: 50px;
+	font-family: trebuchet MS;
+	transition: .5s;
+}
+.number:hover {
+	background-color: rgb(44, 44, 44);
+}
+
+.popup {
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.233);
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.popup_content {
+	font-family: trebuchet MS;
+	background-color: black;
+	width: 500px;
+	height: 300px;
+	border-radius: 30px;
+	margin: auto;
+	color: white;
+	text-align: center;
+	padding: 30px 30px;
+}
+.popup2 {
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.233);
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.popup_content2 {
+	font-family: trebuchet MS;
+	background-color: black;
+	width: 500px;
+	height: 300px;
+	border-radius: 30px;
+	margin: auto;
+	color: white;
+	text-align: center;
+	padding: 30px 30px;
+	animation: explosion .2s;
+}
+
+/* Animation */
+
+@keyframes explosion {
+  0%   {background-color: white;}
+  25%  {background-color: black;}
+  50%  {background-color: white;}
+  90% {background-color: black;}
+	100% {background-color: rgba(255, 255, 255, 0.233)}
+}

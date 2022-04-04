@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="80" viewBox="0 0 60 80">
+  <defs>
+    <linearGradient id="icon-a" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#8D0710"/>
+      <stop offset="40%" stop-color="#850308"/>
+      <stop offset="100%" stop-color="#7D0000"/>
+    </linearGradient>
+    <linearGradient id="icon-b" x1="54.45%" x2="70.55%" y1="45.383%" y2="28.541%">
+      <stop offset="20%" stop-color="#590903"/>
+      <stop offset="45%" stop-color="#590903" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-c" x1="52.75%" x2="-13.55%" y1="53.253%" y2="-25.289%">
+      <stop offset="3%" stop-color="#290401"/>
+      <stop offset="29%" stop-color="#290401" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-d" x1="49.978%" x2="49.978%" y1="100%" y2="0%">
+      <stop offset="49%" stop-color="#470000"/>
+      <stop offset="69%" stop-color="#6C0000"/>
+      <stop offset="81%" stop-color="#7D0000"/>
+    </linearGradient>
+    <linearGradient id="icon-e" x1="0%" y1="50%" y2="50%">
+      <stop offset="36%" stop-color="#2F0603" stop-opacity="0"/>
+      <stop offset="38%" stop-color="#2F0603" stop-opacity=".13"/>
+      <stop offset="54%" stop-color="#2F0603"/>
+    </linearGradient>
+    <linearGradient id="icon-f" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#290401"/>
+      <stop offset="51%" stop-color="#290401" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-g" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#790100"/>
+      <stop offset="100%" stop-color="#A60200"/>
+    </linearGradient>
+    <linearGradient id="icon-h" x1="-.043%" y1="50.01%" y2="50.01%">
+      <stop offset="28%" stop-color="#3B0000"/>
+      <stop offset="34%" stop-color="#4A0000"/>
+      <stop offset="46%" stop-color="#740C03" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="icon-i" cx="49.261%" cy="48.314%" r="49.87%" fx="49.261%" fy="48.314%">
+      <stop offset="0%"/>
+      <stop offset="13%" stop-opacity=".65"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="icon-j" cx="49.139%" cy="55.465%" r="59.884%" fx="49.139%" fy="55.465%" gradientTransform="matrix(.83311 0 0 1 .082 0)">
+      <stop offset="0%" stop-opacity=".55"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="icon-k" x1="98.574%" x2="9.489%" y1="94.676%" y2="3.315%">
+      <stop offset="14%" stop-color="#630400"/>
+      <stop offset="100%" stop-color="#700000"/>
+    </linearGradient>
+    <linearGradient id="icon-l" x1="50.246%" x2="57.965%" y1="51.837%" y2="42.041%">
+      <stop offset="9%" stop-color="#F40114" stop-opacity="0"/>
+      <stop offset="26%" stop-color="#F40114" stop-opacity=".05"/>
+      <stop offset="59%" stop-color="#F40114" stop-opacity=".19"/>
+      <stop offset="100%" stop-color="#F40114" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="icon-m" x1="60.933%" x2="38.333%" y1="95.226%" y2="3.41%">
+      <stop offset="0%" stop-color="#FF1B37"/>
+      <stop offset="15%" stop-color="#F61A34"/>
+      <stop offset="39%" stop-color="#DC162B"/>
+      <stop offset="70%" stop-color="#B3101D"/>
+      <stop offset="100%" stop-color="#850A0E"/>
+    </linearGradient>
+    <linearGradient id="icon-n" x1="0%" y1="49.975%" y2="49.975%">
+      <stop offset="0%" stop-color="#630B07"/>
+      <stop offset="51%" stop-color="#5B0A07"/>
+      <stop offset="100%" stop-color="#4E0907"/>
+    </linearGradient>
+    <linearGradient id="icon-o" x1="42.6%" x2="51.2%" y1="44.49%" y2="53.418%">
+      <stop offset="0%" stop-color="#F40114" stop-opacity=".3"/>
+      <stop offset="100%" stop-color="#F40114" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-p" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2A44"/>
+      <stop offset="16%" stop-color="#F7273E"/>
+      <stop offset="40%" stop-color="#E21E2C"/>
+      <stop offset="69%" stop-color="#BF1010"/>
+      <stop offset="86%" stop-color="#81070A"/>
+      <stop offset="100%" stop-color="#4F0006"/>
+    </linearGradient>
+    <linearGradient id="icon-q" x1="50.039%" x2="50.039%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#F81934"/>
+      <stop offset="16%" stop-color="#F01831"/>
+      <stop offset="41%" stop-color="#D91529"/>
+      <stop offset="72%" stop-color="#B5101D"/>
+      <stop offset="100%" stop-color="#8D0A0F"/>
+    </linearGradient>
+    <linearGradient id="icon-r" x1="50.08%" x2="96%" y1="49.973%" y2="38.347%">
+      <stop offset="0%" stop-color="#FF001F" stop-opacity=".15"/>
+      <stop offset="52%" stop-color="#FF001F" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-s" x1="50%" x2="50%" y1="107.24%" y2="5.142%">
+      <stop offset="10%" stop-color="#FF1023"/>
+      <stop offset="21%" stop-color="#FA1022"/>
+      <stop offset="36%" stop-color="#EA0E1F"/>
+      <stop offset="52%" stop-color="#D10C1B"/>
+      <stop offset="69%" stop-color="#AD0915"/>
+      <stop offset="87%" stop-color="#80050E"/>
+      <stop offset="100%" stop-color="#590207"/>
+    </linearGradient>
+    <radialGradient id="icon-t" cx="-20.926%" cy="18.187%" r="87.437%" fx="-20.926%" fy="18.187%" gradientTransform="matrix(1 0 0 .66667 0 .06)">
+      <stop offset="0%" stop-color="#4D0802"/>
+      <stop offset="9%" stop-color="#520902" stop-opacity=".87"/>
+      <stop offset="48%" stop-color="#640A03" stop-opacity=".4"/>
+      <stop offset="80%" stop-color="#700C03" stop-opacity=".11"/>
+      <stop offset="100%" stop-color="#740C03" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="icon-u" x1="-432.028%" x2="520.641%" y1="77.846%" y2="24.903%">
+      <stop offset="0%" stop-color="#540003"/>
+      <stop offset="59%" stop-color="#5C0001"/>
+      <stop offset="63%" stop-color="#600002"/>
+      <stop offset="68%" stop-color="#6B0104"/>
+      <stop offset="72%" stop-color="#7E0208"/>
+      <stop offset="76%" stop-color="#98040E"/>
+      <stop offset="78%" stop-color="#AD0612"/>
+      <stop offset="85%" stop-color="#C81120"/>
+      <stop offset="96%" stop-color="#FF293C"/>
+    </linearGradient>
+    <linearGradient id="icon-v" x1="0%" y1="49.99%" y2="49.99%">
+      <stop offset="0%" stop-color="red" stop-opacity=".3"/>
+      <stop offset="9%" stop-color="red" stop-opacity=".27"/>
+      <stop offset="61%" stop-color="red" stop-opacity=".07"/>
+      <stop offset="87%" stop-color="red" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-w" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#730205"/>
+      <stop offset="30%" stop-color="#7B0206"/>
+      <stop offset="76%" stop-color="#900207"/>
+      <stop offset="100%" stop-color="#9E0208"/>
+    </linearGradient>
+    <linearGradient id="icon-x" x1="0%" y1="49.99%" y2="49.99%">
+      <stop offset="0%" stop-color="#FF3636" stop-opacity=".3"/>
+      <stop offset="9%" stop-color="#FF3636" stop-opacity=".26"/>
+      <stop offset="47%" stop-color="#FF3636" stop-opacity=".13"/>
+      <stop offset="79%" stop-color="#FF3636" stop-opacity=".05"/>
+      <stop offset="100%" stop-color="#FF3636" stop-opacity=".02"/>
+    </linearGradient>
+    <linearGradient id="icon-y" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4747" stop-opacity=".3"/>
+      <stop offset="9%" stop-color="#FF4545" stop-opacity=".24"/>
+      <stop offset="26%" stop-color="#FF4141" stop-opacity=".14"/>
+      <stop offset="44%" stop-color="#FF3F3F" stop-opacity=".07"/>
+      <stop offset="64%" stop-color="#FF3D3D" stop-opacity=".03"/>
+      <stop offset="87%" stop-color="#FF3D3D" stop-opacity=".02"/>
+    </linearGradient>
+    <linearGradient id="icon-z" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="1%" stop-color="#7D0103"/>
+      <stop offset="100%" stop-color="#890103"/>
+    </linearGradient>
+    <linearGradient id="icon-A" x1="0%" y1="49.99%" y2="49.99%">
+      <stop offset="0%" stop-color="#FF2929" stop-opacity="0"/>
+      <stop offset="12%" stop-color="#FF2929" stop-opacity=".05"/>
+      <stop offset="49%" stop-color="#FF2929" stop-opacity=".19"/>
+      <stop offset="80%" stop-color="#FF2929" stop-opacity=".27"/>
+      <stop offset="100%" stop-color="#FF2929" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="icon-B" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF1329"/>
+      <stop offset="17%" stop-color="#FF1E34"/>
+      <stop offset="70%" stop-color="#FF3E54"/>
+      <stop offset="100%" stop-color="#FF4A60"/>
+    </linearGradient>
+    <linearGradient id="icon-C" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".04"/>
+      <stop offset="20%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-D" x1="0%" y1="49.99%" y2="49.99%">
+      <stop offset="67%" stop-color="#FFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity=".03"/>
+    </linearGradient>
+    <linearGradient id="icon-E" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B0104"/>
+      <stop offset="24%" stop-color="#730104"/>
+      <stop offset="61%" stop-color="#880104"/>
+      <stop offset="100%" stop-color="#A60005"/>
+    </linearGradient>
+    <linearGradient id="icon-F" x1="0%" y1="50.008%" y2="50.008%">
+      <stop offset="0%" stop-color="red" stop-opacity="0"/>
+      <stop offset="29%" stop-color="red" stop-opacity=".01"/>
+      <stop offset="56%" stop-color="red" stop-opacity=".06"/>
+      <stop offset="83%" stop-color="red" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="red" stop-opacity=".2"/>
+    </linearGradient>
+    <linearGradient id="icon-G" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="red" stop-opacity=".2"/>
+      <stop offset="17%" stop-color="red" stop-opacity=".14"/>
+      <stop offset="44%" stop-color="red" stop-opacity=".06"/>
+      <stop offset="71%" stop-color="red" stop-opacity=".01"/>
+      <stop offset="100%" stop-color="red" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-H" x1="0%" y1="50.008%" y2="50.008%">
+      <stop offset="0%" stop-opacity=".12"/>
+      <stop offset="8%" stop-opacity=".1"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-I" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF081B"/>
+      <stop offset="100%" stop-color="#FF4556"/>
+    </linearGradient>
+    <radialGradient id="icon-J" cx="-120.431%" cy="26.171%" r="261.598%" fx="-120.431%" fy="26.171%" gradientTransform="matrix(1 0 0 .20408 0 .208)">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="icon-K" x1="49.136%" x2="49.136%" y1="99.697%" y2="-.078%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".08"/>
+      <stop offset="20%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="icon-L" x1="-.76%" x2="99.032%" y1="49.818%" y2="49.818%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".04"/>
+      <stop offset="47%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" transform="translate(-27 -17)">
+    <polygon fill="#730009" points="57 75.75 57 94.81 37 75.75 37 75.44 57 75.44"/>
+    <polygon fill="url(#icon-a)" points="57 75.75 57 94.81 77 75.75 77 75.44 57 75.44"/>
+    <polygon fill="url(#icon-b)" points="57 75.75 57 94.81 37 75.75"/>
+    <polygon fill="url(#icon-c)" points="57 75.75 57 94.81 77 75.75"/>
+    <polygon fill="url(#icon-d)" points="57 25.92 57 75.75 80.13 75.75 80.13 38.27"/>
+    <polygon fill="url(#icon-e)" points="66.38 30.93 66.38 75.75 80.13 75.75 80.13 38.27"/>
+    <polygon fill="url(#icon-f)" points="66.38 30.93 66.38 75.75 80.13 75.75 80.13 38.27"/>
+    <polygon fill="url(#icon-g)" points="57 25.92 57 75.75 33.88 75.75 33.88 38.27"/>
+    <polygon fill="url(#icon-h)" points="57 25.92 57 75.75 33.88 75.75 33.88 38.27"/>
+    <circle cx="37.96" cy="77.76" r="5.35" fill="url(#icon-i)"/>
+    <ellipse cx="66.91" cy="77.66" fill="url(#icon-j)" rx="7.61" ry="6.34"/>
+    <polygon fill="url(#icon-k)" points="57 93.81 57 97 36.66 78.25 37 78.25 37 77.94 39.5 77.09 39.5 77.4"/>
+    <polygon fill="url(#icon-l)" points="57 93.81 57 97 36.66 78.25 37 78.25 39.5 77.4"/>
+    <polygon fill="url(#icon-m)" points="57 97 27 78.25 27 77.94 37 77.94 37 78.25"/>
+    <polygon fill="url(#icon-n)" points="57 93.81 57 97 77.32 78.25 77 78.25 77 77.94 74.5 77.01 74.5 77.4"/>
+    <polygon fill="url(#icon-o)" points="57 93.81 57 97 77 78.25 74.5 77.4"/>
+    <polygon fill="url(#icon-p)" points="57 97 87 78.25 87 77.94 77 77.94 77 78.25"/>
+    <polygon fill="url(#icon-q)" points="57 97 44.5 78.25 44.5 77.94 57.31 77.94 57.31 96.53"/>
+    <polygon fill="url(#icon-r)" points="57 78.25 57 97 44.5 78.25"/>
+    <polygon fill="url(#icon-s)" points="57 78.25 57 97 69.5 78.25 69.5 77.94 57 77.94"/>
+    <polygon fill="url(#icon-t)" points="57 78.25 57 97 69.5 78.25"/>
+    <polygon fill="url(#icon-u)" points="74.5 30.53 74.5 77.4 77 78.25 77.31 78.25 77.31 29.7 77 29.5"/>
+    <polygon fill="url(#icon-v)" points="74.5 30.53 74.5 77.4 77 78.25 77 29.5"/>
+    <polygon fill="url(#icon-w)" points="77 29.5 77 78.25 87 78.25 87 35.75"/>
+    <polygon fill="url(#icon-x)" points="77 29.5 77 78.25 87 78.25 87 35.75"/>
+    <polygon fill="url(#icon-y)" points="77 29.5 77 78.25 87 78.25 87 35.75"/>
+    <polygon fill="url(#icon-z)" points="39.5 30.53 39.5 77.4 37 78.25 37 29.5"/>
+    <polygon fill="url(#icon-A)" points="39.5 30.53 39.5 77.4 37 78.25 37 29.5"/>
+    <polygon fill="url(#icon-B)" points="37 29.5 37 78.25 27 78.25 27 35.75"/>
+    <polygon fill="url(#icon-C)" points="37 29.5 37 78.25 27 78.25 27 35.75"/>
+    <polygon fill="url(#icon-D)" points="37 29.5 37 78.25 27 78.25 27 35.75"/>
+    <polygon fill="url(#icon-E)" points="57 17 57 78.25 69.5 78.25 69.5 24.81"/>
+    <polygon fill="url(#icon-F)" points="57 17 57 78.25 69.5 78.25 69.5 24.81"/>
+    <polygon fill="url(#icon-G)" points="57 17 57 78.25 69.5 78.25 69.5 24.81"/>
+    <polygon fill="url(#icon-H)" points="57 17 57 78.25 69.5 78.25 69.5 24.81"/>
+    <polygon fill="url(#icon-I)" points="57 17 57 78.25 44.5 78.25 44.5 24.81"/>
+    <polygon fill="url(#icon-J)" points="57 17 57 78.25 44.5 78.25 44.5 24.81"/>
+    <polygon fill="url(#icon-K)" points="57 17 57 78.25 44.5 78.25 44.5 24.81"/>
+    <polygon fill="url(#icon-L)" points="57 17 57 78.25 44.5 78.25 44.5 24.81"/>
+  </g>
+</svg>

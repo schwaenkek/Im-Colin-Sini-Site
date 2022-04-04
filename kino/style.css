@@ -1,0 +1,21 @@
+* {
+    background-color: teal;
+}
+
+header {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+input {
+    background-color: rgb(21, 139, 160);
+}
+
+select {
+    background-color: rgb(21, 139, 160);
+}
